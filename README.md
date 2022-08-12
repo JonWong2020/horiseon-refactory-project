@@ -6,13 +6,13 @@ A project to refactor the HTML and CSS elements of the company's given code.  Th
 
 ## Links
 
-Live Site:  
+Live Site:  https://jonwong2020.github.io/horiseon-refactory-project/
 
-Repo:  
+Repo:  https://github.com/JonWong2020/horiseon-refactory-project
 
 ## Screenshot
 
-
+![horiseon](https://media0.giphy.com/media/bBbe2drZlNcxuV6GYq/giphy.gif?cid=790b76119a446161b2ff03210346cfb7d28dc3e8410f9f7b&rid=giphy.gif)
 
 ## Credits
 
