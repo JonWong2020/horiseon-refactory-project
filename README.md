@@ -12,7 +12,7 @@ Repo:  https://github.com/JonWong2020/horiseon-refactory-project
 
 ## Screenshot
 
-![horiseon](https://media0.giphy.com/media/bBbe2drZlNcxuV6GYq/giphy.gif)
+![horiseon](https://user-images.githubusercontent.com/110364895/184457565-206ddd66-d72b-401b-9f5d-b7ee177d1a51.gif)
 
 ## Credits
 
