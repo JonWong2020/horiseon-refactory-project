@@ -12,7 +12,37 @@ Repo:  https://github.com/JonWong2020/horiseon-refactory-project
 
 ## Screenshot
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://media0.giphy.com/media/bBbe2drZlNcxuV6GYq/giphy.gif" width="300" height="300" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Credits
 
