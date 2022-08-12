@@ -1,16 +1,22 @@
-# horiseon-refactory-project
+# Horiseon Refactory Project
 
 ## Description
 
-## Installation
+A project to refactor the HTML and CSS elements of the company's given code.  The inital code was given without semantic elements in the HTML and unorganized CSS elements and I was tasked to refactor the code.  
 
-N/A
+## Links
 
-## Usage
+Live Site:  
+
+Repo:  
+
+## Screenshot
+
+
 
 ## Credits
 
-N/A
+* Horiseon for giving me the opportunity to look through the code and make the edits to make it more organized. 
 
 ## License
 
